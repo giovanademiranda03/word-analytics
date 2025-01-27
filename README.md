@@ -28,39 +28,38 @@ Ensure you have Node.js installed on your system.
 ### Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/giovanademiranda03/word-analytics.git
-  ```
+     git clone https://github.com/giovanademiranda03/word-analytics.git
+   ```
 
 2. Navigate to the project directory:
-   ```bash
-   cd word-analytics
-  ```
+    ```bash
+     cd word-analytics
+    ```
 
 3. Install dependencies:
    ```bash
-   npm install
-
-  ```
+     npm install
+    ```
 
 4. CStart the development server:
    ```bash
-   npm run dev
-  ```
+     npm run dev
+    ```
 
 5. Open the app in your browser at http://localhost:5173.
 
 ## 📂 Project Structure
 
 ```bash
-word-analytics/
-├── public/               # Static assets
-├── src/
-│   ├── components/       # Reusable components
-│   ├── pages/            # Main application pages
-│   ├── styles/           # Global and component-specific styles
-│   ├── utils/            # Utility functions
-├── vite.config.js        # Vite configuration
-├── package.json          # Project setup and dependencies
-└── README.md             # Project documentation
+  word-analytics/
+  ├── public/               # Static assets
+  ├── src/
+  │   ├── components/       # Reusable components
+  │   ├── pages/            # Main application pages
+  │   ├── styles/           # Global and component-specific styles
+  │   ├── utils/            # Utility functions
+  ├── vite.config.js        # Vite configuration
+  ├── package.json          # Project setup and dependencies
+  └── README.md             # Project documentation
 
 ```
